@@ -25,6 +25,11 @@ and repeat
 
     until finished
 
-
-
 End with an example of getting some data out of the system or using it for a little demo.
+
+
+ ### ESTO ES UNA PRUEBA PARA VERSI PUEDOHACER PULL EN REPO LOCAL
+
+ - [ ] PAN
+ - [ ] GALLETAS
+ - [X] LECHE
