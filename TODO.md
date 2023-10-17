@@ -20,6 +20,9 @@ This is he checklist of tasks to make a good readme:
 
  ######es para hacer otro pull a ver si se queda grabadoo!
  
+<<<<<<< HEAD
 ## y esto es para hacer un amend del ultimo commit hey!!
 
 #cucha esso es!
+=======
+>>>>>>> refs/remotes/origin/main
